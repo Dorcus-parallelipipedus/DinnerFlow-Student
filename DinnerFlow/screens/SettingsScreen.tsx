@@ -1,10 +1,12 @@
-import { View } from "react-native";
+import { Text, View } from "react-native";
 
 function SettingsScreen(): React.JSX.Element {
   
   
     return (
-        <View></View>
+        <View>
+            <Text>http://icons8.com</Text>
+        </View>
     );
   }
 
