@@ -18,8 +18,6 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 function App(): React.JSX.Element {
-  // const isDarkMode = useColorScheme() === 'dark';
-
 
   return (
     <NavigationContainer>
@@ -27,9 +25,5 @@ function App(): React.JSX.Element {
     </NavigationContainer>
   );
 }
-
-// const styles = StyleSheet.create({
-
-// });
 
 export default App;
